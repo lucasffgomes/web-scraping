@@ -21,4 +21,4 @@ lucasffgomes/App_Klimatos
 Pode-se inserir quantos repositórios desejar, ao final o script irá gerar um arquivo de nome `result.txt` com as informações dos repositórios inseridos anteriormente.
 Abra-o e verá todas as pesquisas feitas pelo script.
 
-Críticas, comentários e sugestões por favor envie um e-mail para _lucasffgomes@hotmail.com_
+Críticas, comentários e sugestões por favor envie um e-mail para lucasffgomes@hotmail.com
